@@ -26,8 +26,9 @@ html body {
 }
 
 #mainContent {
-	font-size: 1.2em;
-	color:white;
+	font-size: 1.3em;
+	font-family: 'Cairo', sans-serif;
+	color:white
 }
 
 #header {
@@ -40,4 +41,15 @@ html body {
 
 #contenu {
 	padding-left: 30px;
+}
+
+#button {
+ 	width:60%;
+ 	height: 60px;
+ 	font-size: 1.2em;
+}
+
+h1 {
+	 color:#e5a912;
+	 font-size: 1.3em;
 }
