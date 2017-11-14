@@ -24,3 +24,20 @@ html body {
 	}
 	
 }
+
+#mainContent {
+	font-size: 1.2em;
+	color:white;
+}
+
+#header {
+	margin: 5% 0;
+}
+
+#contact {
+	margin-left: 0;
+}
+
+#contenu {
+	padding-left: 30px;
+}
