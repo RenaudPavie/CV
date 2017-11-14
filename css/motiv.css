@@ -1,0 +1,26 @@
+html body {
+	margin-bottom: 50px;
+	background: linear-gradient(12deg, #ffffff, #494949);
+	background-size: 400% 400%;
+
+	-webkit-animation: AnimationName 10s ease infinite;
+	-moz-animation: AnimationName 10s ease infinite;
+	animation: AnimationName 10s ease infinite;
+
+	@-webkit-keyframes AnimationName {
+   	 0%{background-position:72% 0%}
+   	 50%{background-position:29% 100%}
+   	 100%{background-position:72% 0%}
+	}
+	@-moz-keyframes AnimationName {
+  	  0%{background-position:72% 0%}
+  	  50%{background-position:29% 100%}
+  	  100%{background-position:72% 0%}
+	}
+	@keyframes AnimationName { 
+   	 0%{background-position:72% 0%}
+   	 50%{background-position:29% 100%}
+   	 100%{background-position:72% 0%}
+	}
+	
+}
