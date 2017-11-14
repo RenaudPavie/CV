@@ -90,5 +90,17 @@ th {
 }
 
 td {
-	width:80%;
+	width:50%;
 }
+
+/* CSS DES JAUGES */
+ .gaugeContainer{
+ 	width: 100%; 
+ 	height: 25px
+ }
+ .gauge50{
+ 	width: 50%;
+ 	height:25px;
+ 	color:black;
+ 	font-size: 0.6em;
+ }
