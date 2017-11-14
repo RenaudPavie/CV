@@ -94,13 +94,43 @@ td {
 }
 
 /* CSS DES JAUGES */
- .gaugeContainer{
+.gaugeContainer{
  	width: 100%; 
- 	height: 25px
- }
- .gauge50{
+ 	height: 25px;
+ 	background-color: #e5a912;
+}
+
+.gauge50{
  	width: 50%;
  	height:25px;
  	color:black;
  	font-size: 0.6em;
- }
+} 
+
+.gauge75{
+ 	width: 75%;
+ 	height:25px;
+ 	color:black;
+ 	font-size: 0.6em;
+} 
+
+.gauge30{
+ 	width: 30%;
+ 	height:25px;
+ 	color:black;
+ 	font-size: 0.6em;
+} 
+
+.gauge20{
+ 	width: 20%;
+ 	height:25px;
+ 	color:black;
+ 	font-size: 0.6em;
+}
+
+.gauge40{
+ 	width: 40%;
+ 	height:25px;
+ 	color:black;
+ 	font-size: 0.6em;
+}
